@@ -1,0 +1,2 @@
+// this icon is used with wxFrame::SetIcon()
+sample ICON "sample.ico"
